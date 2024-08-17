@@ -11,7 +11,7 @@ Click the "Fork" button at the top right of this page to create a copy of this r
 Clone your fork to your local machine:
 
 ```bash
-git clone git@github.com:your-username/github-beginner-guide.git
+git clone git@github.com:your-username/github-beginner.git
 ```
 
 ## 3. Create a New Branch
